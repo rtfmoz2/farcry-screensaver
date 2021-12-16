@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `rtfmoz2`, `farcry-screensaver`, `@rtfmoz`, `linkedin_username`, `jarvil@gmail.com`, `Gmail`, `farcry-screensaver`, `Screensaver for the FarCry game series by Ubisoft`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `rtfmoz2`, `farcry-screensaver`, `rtfmoz`, `linkedin_username`, `jarvil`, `gmail.com`, `farcry-screensaver`, `Screensaver for the FarCry game series by Ubisoft`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
