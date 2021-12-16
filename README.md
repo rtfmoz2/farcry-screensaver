@@ -194,7 +194,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@@rtfmoz](https://twitter.com/@rtfmoz) - jarvil@gmail.com@jarvil@gmail.com_client.com
+Your Name - [@rtfmoz](https://twitter.com/rtfmoz) - jarvil@gmail.com
 
 Project Link: [https://github.com/rtfmoz2/farcry-screensaver](https://github.com/rtfmoz2/farcry-screensaver)
 
